@@ -49,7 +49,7 @@ V = IR, where R is proportionality constant
 When resistors are connected in series combination
 the total resistance of the circuit is the sum of the individual resistances. This is because current remains constant throughout the circuit but the voltage varies
 
-![[Pasted image 20230120204951.png]]
+![Pasted image](20230120204951.png)
 
 In the above circuit let the voltage at R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub> be V<sub>1</sub>, V<sub>2</sub>, V<sub>3</sub>
 Let the total potential difference of the circuit by V<sub>eff</sub>
